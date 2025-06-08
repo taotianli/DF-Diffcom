@@ -1,0 +1,6 @@
+# macOS files
+.DS_Store
+__pycache__/
+*.nii.gz
+runs/
+results/
