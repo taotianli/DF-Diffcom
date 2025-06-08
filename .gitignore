@@ -4,3 +4,4 @@ __pycache__/
 *.nii.gz
 runs/
 results/
+*.pdf
